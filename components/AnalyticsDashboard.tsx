@@ -7,7 +7,6 @@ import { ArrowDownRight, ArrowUpRight } from "lucide-react"
 import ReactCountryFlag from "react-country-flag"
 
 
-export const revalidate = 60
 
 interface AnalyticsDashboardProps {
     avgVisitorsPerDay: string

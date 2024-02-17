@@ -2,7 +2,6 @@ import AnalyticsDashboard from "@/components/AnalyticsDashboard";
 import { getDate } from "@/utils";
 import { analytics } from "@/utils/analytics";
 
-export const revalidate = 60
 
 const Page = async () => {
 
